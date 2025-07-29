@@ -1,6 +1,6 @@
 # Apuntes SQL
 
-SQL (Structured Query Language) es el lenguaje estándar para interactuar con bases de datos relacionales, y sus funciones básicas giran en torno a cuatro acciones principales. Aquí las explico de forma clara y "estructurada":
+SQL (Structured Query Language) es el lenguaje estándar para interactuar con bases de datos relacionales, y sus funciones básicas giran en torno a cinco acciones principales. Aquí las explico de forma clara y "estructurada":
 
 ---
 
